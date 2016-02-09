@@ -1,0 +1,50 @@
+482
+
+Nous nonnlnons ds ln en nous appuynnt snr ns qni a &ts
+stabli nn Nr. 10, qus ln fonction u dnfinis par l'squation(b'1)n’anrs‚
+considsrne comme fonction du paramstrs λ, quo de· pssles snpnrienrs
+en valent absolue n l'units.
+
+Oels poss, voisi oe qu'on reoonnnfft s ln simple inspeetion ds
+ln formula (58): la fonction v, nonsidsrss comme fonction du pars·
+mstrs λ, est une fonction analytique qni, n distanos finis, n'n d'autres
+pojnts singuliers que des pfiles simples et rdels⁷ ssavoir: tous ceux ds
+la fonction u st pentest-re les pfiles -1 et -)-1. Aura-velle rnollemsnt
+nes deux pnles? Nous allons voir qu’il en est bien ainsi en gsnsrnl.
+Dssignons paru (-1) et u (-)-1) les valeurs de u pour λ---1
+et pour n=†1 st ohsrohons les relations qui existent entre les
+sonations u(— 1), ΜΗ· 1) st vo. L'squstion (57) nous donne:
+
+(du(—1))=dv0
+dN e dN'
+Il en rssulte qus la diffsrenes:
+
+(59) υο-αί-Ι)
+
+’ ss rsduit n uns oonstsnts dnns ohannne des p†1 regions qui nom-
+posent le domnine extsrisur (1)). Dans la rsgion infinie (3,) ls vn·
+leur constante ds l'expression (59) est nulls, puisqne‚ ὲ l’infini,
+ehnoune des fonctions u et n⁰ ss rsduit n nsro. Soient
+
+(60) ⁶12⁶2·⁶⁸7····³⁰n
+
+les valsurs constantes de nette expression dans les rsgions (3,),
+(3,), (3,), . .. (3,) τθεροοτὶνθωεηῒ, Fsisons maintsnsnt λε -(-1 dans
+l’squation (57).11 visndra:
+
+(dn-ff? 33
+
+Cela pronve qus la somme
+
+(61) vo ÷ ((31)
+
+se rsduit n une nonstsnts dans ohncnne des q rsgions qui oom-
+posent ln demaine extnrieur (D). Designons par
+
+(62) effi, effi, σή,
+
+les valeurs consumes de la somme (61) dans les regions (Bm),
+(Βῌ), (ΗΗΊ) respectivemsnt.
+
+ 
+

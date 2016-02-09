@@ -1,0 +1,42 @@
+c’cstl'equation des telagraphistes generalisec3 clleafait
+l’objet de travanx de plusieurs geometres parmi lesqucls nous oi-
+tarons MM. Heaviside. Poincaro. Pioard‚ Bonssinesq‚ Birkeland‚
+Voigt.
+
+On etablit sans peine nnc relation entre la fonctionA(.c,y,z)
+qni figure dans l’equation (l) et las valente initiales des variables
+cesta-dire celles qui correspondent au moment t: 0. Posons
+
+&asti = U3 (5)
+l'equation (1) nous donncra:
+
+U = (festiae-¹1⁷5* dt sirm* ΨΜ, ÷ A) ;
+
+cette equation peut donc se mettre sous la forme
+
+La comparaison des aguliaca: (t) du present paragrapho et (10) dn
+p §ia nous apprend quc l’on a:
+
+A(n.y‚z)= },(U⁰—a²v²it)3 (8)
+
+a (Ρ on peut substituer ici (9ss8t)⁰. Des lors, si l’on se reporta
+al’egaiite (3), on cst assare qne l'expression
+
+¹(tto
+
+tt‚=f÷{{-†P0t(
+
+est l¹integrale de l'cqnation (10) du ξ t„ cest-adire de l'cquation
+de la perturbation partielle (aa, o„ wa) Nous sommas libres d'ail-
+leurs d'y ajouter une fonction harmoniqne quelconqnc des cordon-
+nees independante du temps. Dans l'expression ainsi obtento, j est
+le seul terme qni depende simultanoment des coordonnees et du
+temps. La perturbation (aa, v„ ua) se composa. par consequent,
+en premier lieu: d'une onde transversale (fich) dont la tate
+s'avanoe avec la vitasse o tandis qn'en arriere d’elle il ya un rc-
+sidn qui peu a peu saiblit ct s'efface; an second lien, d'nne dis-
+tribution dans l’espacc de certaines fonctions independentes du
+temps qni sc determinent par l'etat initial dn milian3 cetto distri-
+
+ 
+

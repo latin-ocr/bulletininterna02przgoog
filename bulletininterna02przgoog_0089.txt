@@ -1,0 +1,53 @@
+66
+
+und fflr 2:00:
+[ἐπ-1, ἴέη.
+
+Im folgenden setzen wir vorans, dass l} lss' reella rationale Zahlan
+daretellen und:
+
+-1<l;<0, a1<l;'<0‚ lssglss‘.
+ist.
+
+§a
+
+Ubarall andliohe Integrala (I Guttuny).
+
+Vermittals der Lbsungen y„ y, der Differentialgleichung (1
+bildan wir folgende Integrala
+
+(2) 11(“)=5912“d22 12(²²'=Jy2 ²² (ἦα
+a=0,1‚...,n—3.
+
+Es ist leiaht zu sehon, dass diese 2(n-2) Inoegrale uberall
+andliah und von einander linear unabhi'mgig sind ¹).
+
+§a
+
+Integrala (ΙΙ. Gattanq).
+
+Wenn mandie a-te Polare von ἦρά mit mat) und die
+(aa-2) Polare von h,„„¹ mit Fam) bezeichnet, so stellt
+
+(a μαψ-Κ(
+ain Integral dar, welches wir aben als Integral II. Gattung ein-
+fuhren.
+
+Dieses Integral ist uberall endlieh mit Ausnahme des Punktas
+
+ὲ {W [maa ÷ ga- t)²b3:··2‹1z,t)]da
+
+2= t.
+In dar That,
+1) wenn die Integrationsgrenzen in der Umgabung von αΞΐ
+
+sind, so ist laioht zu seben, dass das Integral endliohen Wart be-
+sitzt.
+
+¹) Zwiachan den Periodicitaamoduln dieser [ntegrala exiatierau bilinearo
+
+Relationem Vg. Boap. Δὶ. Um. Krakbw. Bd. 25 a. 3203 Hirsch: Mna. Anu.
+Bd. 54.
+
+ 
+

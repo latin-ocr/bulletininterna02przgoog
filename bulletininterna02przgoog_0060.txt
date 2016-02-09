@@ -1,0 +1,47 @@
+37
+
+cela dc commun que tontes sont des potenticls de simplos couches
+repandues sur la suffoco (S). Elles se distinguent par contre per
+les conditione qu'elles doivent vcriiier dans chaque eas sur la sur-
+face (S). Designons par
+
+u„ us, ((3, . . . (1)
+nne suite complete ι) defunctione fundamentales dc M. Poincan'·‚ pur
+
+v„ ”o vg, · · · (2)
+une suite compicto dc celles dc M. Le Roy et soit enfin
+
+Ψ( ,w„ wer · · · (3)
+
+nne suite compluto de fonctions fundamentales de M. Stekloff. Ges
+fonctions seront caracterisoes respectivement pur les conditione sui-
+ventes:
+
+(iii ··1Ϊ1111ῖλι 1111111111111εε1, 2, s...) (4)
+
+iiiii*iiii),=³ov2=(t=t2›³····) o>
+
+({})¹†uco=0(l⁶=1› 2, 3,...) 16)
+
+oii les t„ les E* et les η, sont des constantes² appelees nombres
+caracteristiqnes dos divorsos fonctions, la lettre ῳ designant unc
+fonction positive et continue definio n priori sur lu surfuce (S).
+Μ. M. Lo Roy et Stekloff ont affirmo successivement que les suites
+(2) et (3) sc riduisent indes suites analogues u lu suite (1) en ega-
+lunt lu fonction arbitraire cula densitc de l’electricite en cquilibre
+sur ln surface (S) (naturellement isolee ct soustraitc o toute influenoe
+otrangere).
+
+Nous allone montier que cos asserimus, inexuutes dans le cae
+general. sont exectos pour les sui-faces (S) ouractorisees par lu pro-
+pricte suivante: Designons par A ct B deux points quelconques pris
+sur une de ces surfaces et pur α ot β les angles formes por les
+
+¹) Noun dirons qn'unc suite de fonctions fundamentales d'un genre donn&
+cut complete, lorsque tonte fonction fondamentulc du genre considere est une
+combinaison lineuire et homog'ene 'a coefficicnts constunts dc fonctions de lu
+unito propose'c et lorsque dc plns cotto suite ne contient que dos fonctions lini·
+aisement independuntes.
+
+ 
+

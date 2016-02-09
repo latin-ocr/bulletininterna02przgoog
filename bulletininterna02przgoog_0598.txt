@@ -1,0 +1,51 @@
+477
+
+sens dire que le symbols (120) continuere t representet le region
+infinie, e'est ὲι dire eelle qui s'etend ὴ l'infini.
+
+Pour que l'un eu moins des problemes precedents soit possible,
+ilest neeesseire que le fonction φ representem les veleurs de ln
+derives normale de le fonction demandes, verifie eerteines eondi-
+tions. Pour nous en rendre eompte, envisegeons successivement les
+deux problemes en eommenoent per le probleme interieur. Consi-
+
+mmmnmme
+§tite
+
+etendue non pes e toute le snrfaoe (S), meis seulement t toute
+le frontiere d'une des regions entrent dens le composition du do-
+meine (1)). Le theorie classique nous apprend que l'integrale pre-
+eedente est neeessairement nulle. Par consequent si l’on designo
+per 9, le valeus de l’integmle
+
+ode
+
+etendue ὲι tou'te le frontiere de le region (Rs), on dovre avoir, pour
+que le fonction Φ existe:
+
+9m=9na=9m=···=9pe=0· (50)
+
+Pessons eu probleme exterieur. Le region infinie (110) ne don-
+nere aucune condition de possibilite, mais il n'en sera pes de meme
+
+des regions (121), (82), . . . (R,); en effet l'integrele
+
+iiiiiieds'
+etendue ὲ 10111618 frontiere de l'une queleonqne des regions pre·
+
+sedentes, eure nero pour valent. Per sensiquent, pour que le pro-
+bleme soit possible, il faut que l'on eit
+
+o=s=m=s=e (Μ)
+
+le symbols 9, ayant is meme signification que plus haut.
+Lemme Ι. Les e'quations (50) constituent les conditions ne-
+
+eesseires et suffisentes pour que la sonetion u definis per l'eque-
+tion (2) n’sit pas le nombre (1 pour pole.
+
+Designons par (Σ) le frontiere totale de le region (Β). (lette
+frontiere (¹2) pourm se reduire ὴ une des neppes de le surfeoe (S)
+
+ 
+

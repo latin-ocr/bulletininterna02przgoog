@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bulletininterna02przgoog_0032.png"; bbox 0 0 935 1429; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 86 45 925 82">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 86 45 925 82">
+     <span class='ocr_line' id='line_1_1' title="bbox 86 45 925 82; baseline -0.013 0"><span class='ocrx_word' id='word_1_1' title='bbox 86 57 182 82; x_wconf 63' lang='lat' dir='ltr'><em>Bullmn</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 197 56 222 81; x_wconf 73' lang='lat' dir='ltr'>dc</span> <span class='ocrx_word' id='word_1_3' title='bbox 230 55 317 80; x_wconf 60' lang='lat' dir='ltr'>lllcslcs</span> <span class='ocrx_word' id='word_1_4' title='bbox 323 54 385 79; x_wconf 62' lang='lat' dir='ltr'>Sede</span> <span class='ocrx_word' id='word_1_5' title='bbox 399 54 492 79; x_wconf 62' lang='lat' dir='ltr'><em>crucam</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 515 50 572 76; x_wconf 67' lang='lat'><em>1902.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 852 45 925 71; x_wconf 70' lang='lat' dir='ltr'><em>PLM.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 129 1260 869 1341">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 129 1260 869 1341">
+     <span class='ocr_line' id='line_1_2' title="bbox 129 1260 869 1289; baseline 0.001 -6"><span class='ocrx_word' id='word_1_8' title='bbox 129 1262 234 1283; x_wconf 70' lang='lat' dir='ltr'>1.Throseus</span> <span class='ocrx_word' id='word_1_9' title='bbox 247 1261 333 1283; x_wconf 65' lang='lat' dir='ltr'>temonis.</span> <span class='ocrx_word' id='word_1_10' title='bbox 367 1261 380 1283; x_wconf 86' lang='grc'><em>2</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 390 1261 456 1283; x_wconf 76' lang='lat' dir='ltr'>Ludms</span> <span class='ocrx_word' id='word_1_12' title='bbox 464 1260 765 1289; x_wconf 51' lang='lat' dir='ltr'>ngqlbaueriGerhorrhyndus</span> <span class='ocrx_word' id='word_1_13' title='bbox 773 1262 869 1285; x_wconf 71' lang='lat' dir='ltr'>formosus,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 310 1309 677 1341; baseline -0.005 -9"><span class='ocrx_word' id='word_1_14' title='bbox 310 1312 344 1333; x_wconf 67' lang='lat'>40</span> <span class='ocrx_word' id='word_1_15' title='bbox 357 1314 451 1341; x_wconf 68' lang='lat' dir='ltr'>qaiiciensus</span> <span class='ocrx_word' id='word_1_16' title='bbox 493 1310 570 1338; x_wconf 77' lang='grc' dir='ltr'>5.Αρίοη</span> <span class='ocrx_word' id='word_1_17' title='bbox 578 1309 677 1337; x_wconf 65' lang='lat' dir='ltr'>pedaticum,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 111 1361 848 1393">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 111 1361 848 1393">
+     <span class='ocr_line' id='line_1_4' title="bbox 111 1361 848 1393; baseline -0.018 -5"><span class='ocrx_word' id='word_1_18' title='bbox 111 1380 116 1385; x_wconf 85' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 122 1362 149 1387; x_wconf 57' lang='grc'>,1.</span> <span class='ocrx_word' id='word_1_20' title='bbox 155 1363 269 1393; x_wconf 70' lang='lat' dir='ltr'>Rybl&#39;liSJcL</span> <span class='ocrx_word' id='word_1_21' title='bbox 645 1366 653 1377; x_wconf 73' lang='grc' dir='ltr'><strong><em>Δ</em></strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 664 1361 848 1377; x_wconf 55' lang='lat' dir='ltr'>pausamus-namm-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

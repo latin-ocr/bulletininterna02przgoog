@@ -1,0 +1,41 @@
+497
+
+z-l. Dos &quations (6), se dffluit immffliatement, grane 11 Pequa·
+tion (4), la valeur de la ddriv6e &wlssa Supposons w=0 dans 161611-
+due de la base infssrieure toute entibr03 nous aurona alors Pagalit&
+
+(ιε-ΜΗ) (6ο)
+
+pour tontes les valeurs de z comprises entre z==0 et κεῖ. La valeur
+du ooeffieient J peut se determinet en remarquant que, pour κεί,
+la composante w devient n6eessairement &gale ὲ disan par conskquent
+
+Les valeurs (6) des componantes de la vitem, jointos 1 l'6quation
+(7), satisfont aux conditione oinmatiquos du probliame. Nous exa-
+minaron· plus loin la question de savoir quelles sont les conditione
+dynamiques qu'il comporto et de quelle ωεωίὲτο elles peuvent &tre
+rem lies.
+
+pLes equations (5), jointes aux &quatiens (6), permettent d’&oriro
+
+n en rdsulte l) que, dans chaque plan horizontal z= Onna„ on a
+
+dp == — war, (9)
+r designant la distance d’un point (z, r) 1 l'axe des ²3 par oonsssquent:
+
+p(z‚r)—p(z‚0)=-—p.lr². (10)
+2) le long de toute ligne verticale ona l'equation
+dp=-2pJ(z-22)dz (11)
+
+qui donne pour deux points z==z1,z=z, d'une meme verticale
+
+Ρ(ὴ,ν)-Ρ(Ζε,ν)τ211(τι-τῖ)(ΖΜ-1)· (12)
+
+Oonsid6r0ns le plan m6dian z=ffll3 le rayon exterieur de la
+section ᾶέοοῐιρόε par ee plan dsspasse on longueur les rayons des
+autres sections de la plaque. Posons en oonsequenoe
+
+11 -- max. B( )-= Rffl). (13)
+
+ 
+

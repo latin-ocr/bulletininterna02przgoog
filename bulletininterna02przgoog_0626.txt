@@ -1,0 +1,52 @@
+505
+
+Reppelons qne le second coefficient de viscosite„ appele λ dens
+ce qui precede, figuruit explicitement dans les equetions [(5) on (7)]
+qui nous ont servi de point de depart Il est remarqueble, par con-
+sequent, que le resultet qne nous venons d’obtenir soit independant
+de ce coefficient. Les termes qui le contenaient ont ete elimines eu
+cours dn calcul. Oette circonstance meritsit d’etre signelec en vue
+des incertituder qui existent au sujet du coefficient λ et <les diffi-
+cultes que souleve se determination experimentele ¹).
+
+Il ne serait point difficile de tenir compte de lc pessnteur dc
+le substance dc la plsque dens le cslcul qui precede. Pour cela, il
+suffit de modifier le derniere equaticn du mouvement‚ celle qui
+sert e determinet le valeur de &ples Designent par γ l'ucceleration
+de le gratuite, on poseru Z = -γ dens cette equeticn. Reprenunt
+le culcul que l'on vient de lire, 011 verre nn terme nouvcau, egel
+e ψ epil, cppcraltre an second membre de l'equation (20) laquelle
+ne subit d'eilleurs aucune autre modification. Per ρ on designo ici la
+densite de la substance dont cn neglige, cele ve sans dire, la vu-
+riation avec l'nltitude 2²).
+
+ξ 4. Un fluidevisqneux, compressible ou non qui suivrcit les lois
+
+posecs par Pcisson et par Stokes, serait-il propree representet,
+en Theorie, la classe des corps recle appeles plastiques? A notre
+
+svis, il est permis d'en douter. Aussi nous proponens-nous, dans ce
+paragraphe‚ de reprendre e ncuvceu l’etude du probleme qui nous
+concupes, en pertunt cette fois de la Theoric generalisec de la
+Visccsite que nous avons cherche e etablir dans plusieurs Memoires
+precedente ³).
+
+Dans ce qui va mirre, nous designerons per c le modnle de
+rigidite, par lc et Ιι les deux modules de compressibilite‚ pur Tlu
+
+¹) Vcir Bullctin internetionsl de l'Acsilemie des Scisncss de
+
+Gremio, Aunes 1901, p. 108.
+
+⁷)Supposons undisque qui, grece e lu fluidite de sc substance, s'econle
+pru· l'effet de su propre perantenr. Dens cc cus, on n ll=0. Admettnnt les simples
+hypotheses dn ξ 11, on pourrs ecrire
+
+1 etant lu valent qui correspond e un moment arbitrcire t.
+³) Vcir Bulletin luternctionul de l’ecudemie des Sciencss
+ascraeum, Annee 1901, pp. 95 et lct; Annee 1902, pp. 19 st 488.
+
+suriana 111. 4
+
+ 
+

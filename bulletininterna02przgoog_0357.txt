@@ -1,0 +1,53 @@
+nzmu†m,
+(t) y=e,e÷t„
+²=mu†ms
+οὺ oe„n„...,e, designent des fonctions de le seule verieble v.
+
+Le surfaee etant reelle, il est encore loisible (par nn ehoix
+eonveneble des perametres tt et v) de supposer
+
+(8) 2oe1²=1,2a‘1²=1,20t,a‘1=0.
+
+Le signe Σ represents teujours une somme de termes sem—
+blables: en α,β,γ; a,b,e; ou, nomme tout lt l’heure, en x,y,z;
+X, ⁸Y, Z. Les eeeents denotent des derivatione per rapport t v.
+
+Il est bien elair qne les generatrices rentilignes de le surfeee
+(7) correspondent eux lignes etz-:const
+
+Les eosinus direnteurs X, Y, Z de le normale sont definis
+par les equetions
+
+EX²=1,ZXa, ΞΟ, 2X(tt'1tt·l-a‘1)=0.
+
+Dire qu'une snrfeee est developpeble, e'est dire qne le plan
+tangent reste le meme tout le long d’une meme generamine, on, si
+l’on vent, que X, Y, Z ne dependent pes de u. Il faut pour eeln
+(et il suffit) que, en entendant denormais per X, Y, Z des fone-
+tions de v seulement, on eit e le leis
+
+(9) Ι 2X2=1, 2X11=0,2Xa‘,=03
+(le) EXe',=0.
+Posons pour plns de symetrie
+
+αἰὲαω b'1=.ss²‚ 0‘1--ln
+
+(Π) emt, ste, 2=e
+
+Les equetions (8) et (9) expriment simplement que
+
+²12 αἱ) c‘tl
+llll llltllfll
+“lla “let lt
+
+sent les eosinus directenrs d'un triedre trireetangle. Iseum derivees
+per rapport t v pourront done s'exprimer tontes eu moyen de trois
+fonctions auxiliaires p, q, r, per les formules classiques de Poisson.
+
+L'equation (10) n'est autre ehose que q=0. On ede le sorte
+(12) αἰῑατν, et',=et3p-et,r, ²‘t=”‘²nl³
+
+avec les autres semblables en β et γ.
+
+ 
+

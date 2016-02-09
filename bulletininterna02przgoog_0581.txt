@@ -1,0 +1,52 @@
+(bbbbd (ΝΝΞλΙΝΝ) 111ΝΝ1Ν112Ῥ·
+
+Nouo dirons que le probleme qui consiste Ν determinet le potentiel
+de simple conche Ν en fonction du perametre λ, eet le problbme
+de Robin.
+
+Loreque le nombre caracteristique1) du potentn'el u est nn
+nombre reelet tnon negetis, on c le theoreme suivant.
+
+l. Leqnationffl) beedmot toujoure per rapport Ν l'inconnue u,
+une solution qni, considente comme fonction dn perembtret, eet
+une fonction analyt' rque nfflayme a distance finie, d’eutres points ein-
+guliere que des poles simplos, faisant partie d’une suite t termes reela
+
+(3) (Ν b, ba· ·-
+ob
+
+(4) ))))))(123)
+
+suite independente de lc fonction φ et parfaitement determinee per
+lc eurfaoe (S) et le nombre caracteristiqne dn potentiel u. (Nous
+ne cousideremns dans le suite qne cette solution ln de l’equation (2)).
+
+2. On pent faire correspondre b chaque terme λ, de le suite
+
+(3) un nombre fini de potentiels de simplos couches linemrement
+independente
+
+e) Ne Ne... υἷ’),
+
+jouiesant dee proprietes suiventee:
+
+a)Ona
+
+oreb> (debbfrttdbtttffltt(rr-12³ Ν)
+
+b) Si le nombreb,⁵ eet nn pole de lc fonction Ν, le residu
+correspondent est une combineison lineaire et homogbne ἰι coeffi-
+ciente constante dee fonctions (b).
+
+Les fonctions (b) e'appellent „fonctions fondamentalee“ de M.
+Poincere.
+
+3) On ne peut avoir
+
+(7) ttN=1
+
+1) Voir l'lntroduoticn cn memcire „Sur l'intbgration de l’dqnction bustu-0⁸
+Journal de Mathematiqnos poree et eppliqnecs, 1902.
+
+ 
+

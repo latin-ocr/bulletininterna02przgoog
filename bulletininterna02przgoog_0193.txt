@@ -1,0 +1,55 @@
+144
+
+ξ 5. O’esl Fourier lc premier qui aessaye1) d’elnblirl'eque-
+tion generale de la propagation de lu cheleur dans un fluide en
+mouvement. Nous ne consideremus l'equetion qu’il etrouvec que
+dane le ces dee fluides incompreseibles. Dens ce cas, nous avons
+d'epres Fourier, avec nos notatione,
+
+(ι) apg-wc&
+
+Reprenons l'equation generale (3) du paragraphe precedent et intro-
+duieons-y les hypotheses perticulieree aux theorice que l’on appelle
+„Fourieriennes“. Supposons 1¹:03 θη meme temps admotione que
+la queutite K (dens l’expreesion de laquelle Tentre comme fac·
+teur) reste finie. D’eutre pert supposons que le systeme que noue
+considemus eet incomprensible. Dens ces conditione l’equation (3)
+dn paragraphe precedent co‘r‘ncide² quant aux termes de premier
+ordre, avec l'equetion (1) etublie pur Fourier.
+
+Le probleme de la conductibilite calorifique d'un gaz θη mou-
+vemenl a ete truite par G. Kirchhoff θη 1868 2). Dans le cae que
+
+nous avons considere l'equation donnee par Kirchhnff peut se met*
+tre sous la forme
+
+(θ) effl- ded-mm
+
+dl '⁴ ρ dt
+
+ici, comme lonicum, nous conservens les notatione que nous avons
+adoptees dans ce qui precede. La meme equation se trouve dans
+un Merncire de Olerk-Maxwellss) qni l’a deduite de leTheorieOine-
+lique. En 1894, Μ. Oarl Neumann publia un Memoire ⁴) dens lequel,
+
+pour le cas d’un gaz en mouvemeut, il donne l'equation
+
+(3) ορὲῗ-Ι- Ψ-ΚΨθ--Ος
+
+il y indique aussi lu forme que prend cette equetion dans le cas
+plus general d'nn corps fluide. On retrouve la meme equalion
+
+¹) rremoires de l'Acndemie Royale des Sciencer, tomexl1,1833.
+Oenvres de Fonrier] publiece parles noina de Μ. G. Derboux‚ tome ll, page
+595.1890.
+
+¹) Pogg. Annulcn, ud. CXXXIV. Gesammelte Abhandlungen‚ pag.
+ulcfflee.
+
+³) Philosophicul Transactions. Part 1, 1879, p. 246.
+
+ὗ) Berichtc d. Kgl. Seche. Gcscllschult d. Wiss. uu Leipzig,
+math-phys. Classe, Jehr 1894, p. 19.
+
+ 
+

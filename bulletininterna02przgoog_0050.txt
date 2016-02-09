@@ -1,0 +1,47 @@
+27
+
+facile t donner en repetant le raisonnement dont M. Dnhem ¹) s’sst
+servi pour stablir le theorema de Clebseh pour les solides isotro-
+pes. En effet le prineipe dn raisonnement est le meme: en se re-
+portant nu memoire aits, on verra sans peine qnels sont les ohan-
+gements d’sillenrspeu importants, qn'il convient d'apporter dans les
+esleuls, lorsqn'on part denos equetions.
+
+Dans un second beau memoire ²) M. Duhem ιι montro que le
+theorema de Glebsoh peut etre etendn aux perturbatione les plus
+diverses ponrvu qn’elles obeissent lt nntype‚ d’aillenrs tres-general,
+d’eqnations nux derivees partielles simultantes. Ge type, on le voit
+tout de suite eomprend nos equetions (3) dn 5 6. somme oss par-
+tienlier. On peut done enoncer ls proposition suivante: etant don-
+nees trois fonctions queleonqnes des coordonnees et du temps: ιι, o, w
+qui verifient les equations (3), 5 6., on peut toujonrs les mettre sous
+ls forme
+
+ustus: ²²14¹³27 10141122. (8)
+
+les quantites u1,v1‚w, etant donnees par les egolitls (2) dn 5 5.,
+dans lesquelles tl est une fonction qni verifie l’equntion (1) du56.;
+les quantites u„ v„ w, se deduissnt, moyennant les egolites (8) dn
+
+5 5., des fonctions 19,Εο qui, lleur tour, verifient trois equations
+dela forme (2), 5 6. En vertu de la remarqne que nous avons faite
+s infin (lu 5 6„ la proposition que nous venons d'tnoneer s'appli-
+que egolement ὴ tontes les fonctions ιιυ, w qui satisfont aureque-
+
+tions (2) du 5 4.
+
+58. Oonsiderons les equations dn monvement e’est-
+it-dire les equations (2) dn 5 23 elles se preterit s nne transforma-
+tion analogne ὴ selle qne nous avons fait snbir anx equations de
+propagation (5 6). Derivees par rapport ὴ la varisbls t et trans-
+formees ensuite au moyen des &quatiens initiales, les equetions (2)
+du 5 2. permettent d'eerire trois egelitss de la forme:
+
+¹) liemoirss de le Sosidi& rl. Sc. phys. et nst. ds Bordennx
+(ὁ) Vol. 111. 1898. p. :stt—333.
+
+¹)Journsl ds Mathematiqnes puros st appl. (5) Vol. Vl. p. 22&
+ξ 11; equations (26),
+
+ 
+

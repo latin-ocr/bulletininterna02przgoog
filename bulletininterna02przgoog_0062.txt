@@ -1,0 +1,55 @@
+39
+
+Designons per h une fonction continue, mois d'ailleuro arbi-
+troiroment definio sur la suffoco (S), par do l'element do suriaco
+relatis ou point A et potone:
+
+(catonem —oteoscsso , (π)
+
+(⁸1
+
+l'equation (6) nous donnera:
+
+§ccccmo
+
+(⁸)
+
+ou, bien en tenent compte de la relation (l) et en supprimant los ,
+indices devenus inutiles: '
+
+Sv,scs=o(t=1‚2,...)
+(Β)
+
+On en conclut que le potentiel F defini par l'eqnntion
+
+d‹⁶r⁷ de* ⁶- .
+ini· (gl-Nido (Ἤ
+01'1 t est un parometre, sera, considere comme fonction de ce para-
+'metre unc fonction entiere. Or celo ne peut arriver que lorsque l’on
+
+a identiquement
+f= df: 0.
+
+En d'outres termes la fonction f, definio par l'equation (Ἰ), sera nulle
+identiquement quelle que soit le fonction Ιι. Or cela exige que l’on
+ait identiquement
+
+(oh coe α - (ct cos βεθ
+
+cela prouve bien que la condition en question est necessaire.
+
+N ⁰ 3. Ilfeut prouver maintenant que la condition (7) du N⁰³1
+est suffisnnte. Prouvonn d'abord que la fonction ψ (M), quand elle
+existe, donne la solution du problome de l'equilibre electrique sur
+la euriaco (S). Nous avons:
+
+1 coo
+Ξ 2 π ἰἶβ ds
+o)
+
+1
+
+d'oo, en vertu de la relation (7) du No 1:
+
+ 
+

@@ -1,0 +1,70 @@
+264
+
+„Oette fonotion ψ, lorsqu'elle existe, n’est autre chose (lt un
+„faoteur oonstent pres) que 11 (1111116 de l’eleotrioite en equilibre sur
+„le surfeoe“.
+
+J'ai liobe de merendre compte de 11 nature ‹lo ees surfaoes
+et j'ei pu reoonnsitre que leur olasse eet malheureuesment tres
+limites.
+
+Elles peuvent etre seulement des qnedriques,
+des obnes ou des oylindres.
+
+Les quadriquss sont bien des surfeoes (S). (l'est ee qu’on
+verilis immediatement‚ d'eprbs votre remerque, en premant pour ψ
+l'expression bien oonnue do 11 densite de l'eleotrioite en equilibre
+sur une surfaos du seoond ordre.
+
+Quent eux eones et 1111 cylindros, ils ne sont pes des suffetes ,ξ
+
+(8), en general, meis seulement sons uno certeine condition (meme
+tres restrictive). Je n'si pas pousse le oeloul assez loin pour inter-
+preter geometriquement oette condition.
+
+Voioi comment je justifie mes assertione.
+
+Solent 1, y,z3x†bx,y†by,z†tlz les ooordonnles de A
+1111111111111111111111111211 va-
+11111 de 11 fonotion ψ et des oosinus direoteurs de 11 normale en
+A et en B.
+
+En designent per Σ une somme de termes semblables en x,
+y, 1, nous avons
+
+eota: rrirllthx,
+
+AB
+
+oosb=---L-Z(X†AX)A2‚
+
+AB
+et l'equetion (1) peut s'eorire
+(1') ttt2x÷nmns÷ttxxos=o
+
+Supposons que l'on 111 111οὸ sur 11 eurfeoo une oourbe quel-
+oonque joignent les points A et Β. 801111111111111111(1111101111
+qui fixe 11 position des points sur 11 oourbe3 1 etant justement 11
+valeur de oe peremetre 11 point B, 0 ss valeur en A.
+
+ltu oppliquent 1111 fonctions x, X et ψ le developpement de
+Meo-Lourin, il vient
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,48 @@
+496
+
+On e pose iei:
+
+ιιι-ιι
+
+Nous introdur'rons meintensnt les nouvelles hypotheses que
+voioi. N egligesnt le poids de ls substance de la plsque nous poserons
+
+(3) X=03 Y=0; Z=0.
+
+Il est trident s priori que ls deformation de ls plsque ne peut
+s'soeomplir qu'sveo une extreme lentem, t osuse du frottement
+interieur tres considersb103 nous pouvons dono negliges tous les
+termes de la forme pduldt eto. S'il est permis, d'outre part, d'sssi·
+miler la substance de lo plaque b un oorps qui‚' bien qus visqueunn
+est neanmoins un fluide, on sero en droit de negliget la oom-
+pressibilite de oette substance et de posen
+
+(4) o 1.- 0.
+
+Les equetions (1) se simplifient en versu de ees hypotheses et
+deviennent
+
+(ta)
+
+Nous supposes-ons qu'il existe dans ls plsque, ’ pendant l’enti'ere
+dures de ls deformation, un axo de symetrie fixe et vertiosl et
+nous conviendrons de prendre oet exe ls pour ιιι des κς quant
+oux exos desset des y, nous los disposerons orbitrsirement dans
+le plau de ls bose inferieure. Une dernibre hypothese que nous
+adopterons, du moins d'uno manibre provisoire estque les vorisbles
+rr, y, z entrent dsns les expressions des oompossntes u, v, w d'une
+fsoon particuliere que nous sllons presiser. Representons psr l
+l'epsisseur, o'est-b-dire ls hauteur vertioole de la plsqne et parJ
+une quontite independsnte de x, y, z, pouvont stre oependsnt une
+fonction de lo variablet. Posons, comme l'ont fait Stefsn et M. v.
+Obermnyer,
+
+(ea) u = Jaez (l - z)
+(bb) ιε·- JyzU-z).
+Ces valeurs de o et de v verifient les eonditions evidemment ne-
+
+eessoires de s'snnulsr lorsque rr ou y s'snnulent‚ ainsi que de s’eva-
+nouir‚ quelles que soient les voleurs de x et de y, pour z=0 et pour
+
+ 
+

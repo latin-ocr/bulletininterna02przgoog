@@ -1,0 +1,46 @@
+, *--l⁰
+ἔξω s=ffi ΨΞ--ῑῆ
+
+2⁰=03 ss⁰=0; Y⁰=0.
+Puisque ξ’, η’, ζ“ s'annulent pour z= 0, nous pourtons poser
+&W=W -2 sw=—ffl-s
+&sss2Q ssss=st
+
+Les deux membres de l'squation ds Cla-Peyron sont donc
+
+(s-mfflsss s (sffimffl3ssffffl3 ω
+
+et l’application du thsorsms eonduit s la formule (1), ainsi que
+ιιοῖιε l'avons annones.
+
+5 7. Reprenons l'squation (21) du ξ 4. ngligeons-y les ter-
+mes de la forme JK„ Μή οοηείἀόῑοιιε somme sgsux les rayons
+Rst 122. Nous aurens
+
+n=wfflmfffflffi. (s
+Dsrivons cette &qustion par rapport ὲ la variable ἐς il vient
+
+dn Π wal
+s†s†³ss·sz²⁰· (²)
+
+Uest la forms gsnsrslisss ds l'sq‘uation ds Stefan (wir (29), 51).
+Elle suppose variabls lapression 113 pourquoi l'squstion de stef sn
+semble-selle, au contraire, impliqusr l'hypothsse: dssldt=0? On
+s’en rend compte facilement. La thsoris habitusllement ssoeptss ds
+ls Viseosits, οὺ il n'est pas tenu compte deaeque la vitssss ds la
+relaxation est finis, ne peut eonduire ὲ uns solution correcte du
+problsme qui nous oosupe que dsns le cas particulier οὺ la pression
+Π est constante.
+
+Il est interessant de remarquer que l'squation (2) peut se d&-
+montrsr immsdiatemsnt par l'applisation d’un thdorsms gsnsral
+dont nous avons donus l’snoncs au ξ 3. d'uns Note: Sur la fonction
+disespative d'un fluide visquew, prdsentse ὲ 1Ἀοαάέιηὶθ dans la
+sssnoe du 13. Ostobrs 1902 ¹).
+
+Imaginons qu'un expsrimsntatsur rsnssisss ἐι rsgler la varia-
+
+¹) Vos'r ci-dsssus pago 492.
+
+ 
+

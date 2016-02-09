@@ -1,0 +1,38 @@
+238
+
+en dbsignant par R le rayon du disque. Pour obtenir l'dquation du
+mouvement du disque nous dissignerons:
+
+par φ l'angle de dkviation du disque de sa position d’e'quilibre‚
+
+par τῳ le moment des fomes &laetiques engendrbes par le fil
+de suspension,
+
+par M le moment d'inertie du disque. L'dquation du mouve-
+ment du disque sera:
+
+Suivant M. Meyer ¹) il faut ουυείᾱέτθῑ cette &quation comme
+une des conditions „aux limites“ dffinissant l’inwgrale ψ de l’tssqua-
+tion 1). Les autres conditions aux limites dkpendent des circonstan-
+ces de l'expdrienee. Nous admettrons qu'h une certaine distance du
+disque mobile se trouve un second disque immobile parallt'vle au
+premier.
+
+Une solution particulit'm de l’bquatiou 1) est la suivante:
+
+ss=i⁰⁴10³inw÷ Deos (ven,
+
+οὺ m et ν νότίΐίθυι Γρᾳυαῖίοιι
+
+4)
+
+Les eonditions relatives aux surfaces sont
+l)ss:0mmz=c
+ou 0: D coty(vc);
+
+2) ψεῗίξρυυπε--Ο
+
+Ι) loc. cit„ p. 249*
+
+ 
+

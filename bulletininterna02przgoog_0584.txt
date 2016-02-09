@@ -1,0 +1,45 @@
+les valeurs constantes dela fonction U2 dans les regions (ΒΗ),
+(ΒΗ.) ...( ,4 q) respectiiement.
+
+Le thdordme fundamental (Nr. 3) qui sert de base a ce travail
+noos apprend qu’il est possible de faire correspondre au nombre
+l1= --1 un systdme de fonctions lindairement independentes,
+
+Uim, U1‘'²‚... Ula.) (16)
+
+jouissant de la propriete suivante: quelle que soit la fonction p,
+on pourra toujours mettre la fonction Ul sous forme d’une eom-
+binaison lineaire et homogdne a coefficients constante des fonctions
+precedentes. Ajoutons que chacunc des fonctions (16) sera un po-
+tentiel de simple couche portes par la surfacc (S), que cliacune de
+ces fonctions s’annulere dans toute l'etendue de la region infinie
+(Εο) et enfin que chacune de ces fonctions se reduira aune cons-
+tante dans chacune des regions (81)... (ΒΡ). Designons par
+
+(lt)
+
+les veleurs constantes de la fonction Ulf‘lls l'interieur des regions
+(131),(R,)‚...(R„)respectivement. Nous verrons plus tard que le
+nombre des fonctions (16) est precisement egel la p, mais des main-
+tenant, nous ellons nous assurer que le nombre en question, j„ nc
+peut etre superieur ap. A cet effet, considemus l’expression
+
+{stlte (18)
+
+οὺ les β’) sont des faoteurs constants. L’expression precedente re
+presente un potentiel de simple couche portes par la surfaee (S).
+Oe potentiel est nul identiquemcnt dans toute l’etendue de la region
+infinie (Εο) et, al'interieur des regions (El), . .. (er respectivemeot,
+il prend les valeurs constantes
+
+Ιι
+{stoc esea-..o (1⁹)
+tat
+silon avait (ι > p, on pourrait trouver pour (Π), β’), silv,
+un systdme de valeurs non toutes nulles mais tel que chacunc des
+expressions (19) se reduise a zero. Mais alors l’expression (18) re-
+presenterait un potentiel de simple conche sereduisant a adrodens
+chacune des regions:
+
+ 
+

@@ -1,0 +1,51 @@
+77
+
+ale Integrationawega die Linien benutzen. welche in demselben sin-
+gularen Punkte baginnen und endigen und dabai noeh einen oder
+mehrere singulare Punkte umspannen‚ oder endlieh die Limen, wel-
+ahe 'zwei singulare Punkte verbinden.
+
+Auf aolahen Wegen ist immer die Differenz der Integrale: Ι
+
+naa-Zaa) :0
+
+und die Relationen 16), 17) lielern die geauehten Bilinearrelatio·
+nen zwisehen den Pariodieitatamoduln der Integrale I. und 11.
+Gallung.
+
+§a
+
+Reductian dar lntagrala.
+
+Alle Differentialgleiehungen‚ welehe mit der gegebenen (1)
+aar selben Art (im Fuehs’sehen Sinna) gehbran bilden ein System
+dar Gleiehungen, welches eine ahnliehe Rolle spielt wie das Sy-
+atem der algebraisehen Gleiehungen, welche zur selben Classe (im
+Riemann’aahen Sinna) geheren. Es iat also eine der wiehtigsten Fra-
+gen, dia Reduetionaformeln fur die Integrale derLesungen derzur
+selben Art geherenden Differentialgleiehungen zu finden.
+
+Es ist bekannt, dass die Lasungen Y der mit (1) zur selben
+Art gehilrenden Differentialgleiehungen sich durch
+
+Y=¹·0(z)a†r1(2)a'
+
+ausdrsseken, wo y die Lesung der Differentialgleiehung (1)
+
+y' = {3⁷ und ΜΖ), r1(z) beliebige rationale Funationen von z be-
+
+deuten. Das Integral
+Jde=51·0(z)ydzl—Jr1(a)ydz
+
+πικῶν l llam -l-rff) (ἐκ
+
+draekt siah also aus vermittelst einer rationalen Funetion von ay
+und eines Integrales der Geatalt
+
+walada
+
+Δ Wann man nun die rationale Funetion aa) in Partialbrflehe zer·
+laga, erhalt man reehta Integrale von der Gestalt:
+
+ 
+

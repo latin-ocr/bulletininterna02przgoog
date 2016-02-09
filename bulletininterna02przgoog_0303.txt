@@ -1,0 +1,45 @@
+236
+
+Dens oes hypotheses u et e verifient les equetions suivantes
+
+&iu 19η &lu
+oeten-‘4²m20
+
+Τ designent la dures du temps de relaxetion pour le liquide en
+question et ΑΞ le rapport de le rigidite ele densite ¹). Ges equetions
+donnent, pour le vitesse engulaire ψ, l’equetion suivente:
+
+Elle e le meme forme que les preoedentes: e'est l’equation
+oonnue sous le nom de „l’equetion des telegrephistes“.
+
+Pour eerire l'equetion du mouvement dedisque il seut ‹talou-
+ler lee deformatione initiales du liquide, les vitesses de oes defor-
+matione, enfin les tensione interieures.
+
+Designone per χο l’engle de torsion d’une particule du liquide
+eu moment t=0. Oette verieble ne depend que de le verieble z.
+Le toreion χο entreine dens le sens des axes Os et Oy les deple-
+eements suivants:
+
+e=-men=m
+
+qui defluent, pour les velenre dee elements de la deformation ini·
+tiale, les expressione solventes
+αοε-θ-ἒῖοεωὲἔὲ et 30:329: “
+Les vitesses de le deformation s'expriment eu moyen dell
+eomme οι0 et β0 eu moyen de χο. ΙΙ vient:
+
+n n
+
+a=x— eth:
+
+&z *y e‘z'
+Les expressions des tensione au sein du liquide sont, d’apres
+
+le theorie de M. Netenson²)‚
+
+¹) L. Notenson, loe. ott. Janvior 1902, p. 32.
+²) lt. Nemeen, loe. eit. ,lanvier 1902, p. 19.
+
+ 
+

@@ -1,0 +1,51 @@
+315
+
+D'apres le's resultats oblcnus par M. Ebsrt et par M. Pari-
+nautl les „minima visibles“ ne dependent pas, au milieu du speo-
+trs‚ d'une muniere considerable de la longueur d’onds. On est donc
+sutoriae a supposer que, si l’ctcnduc 'de la partie noire n'excede pas
+2μμ au plus ct si la bande ‘se trouve dans la ⁸partic centrale ‘du
+spectro, l'erreur en question, qui a ‘evidentment la caractere d'une er-
+reur systematiqus‚ est au moins negligeable. Mais cette conclusion
+ne s'applique point aux bandes situccs dans les parties extremes du
+spectra ou, d'apris les memes auteurs, les „minirna visibles“ crois·
+sent rapidemcnt vers les limites du spectro.
+
+3. Si l’on pouvait acceptor la supposition physiologique tres
+sir'nple que tontes les couleurs du spectro northal disparaissent
+dans lc meme instant quand l'intensite de la source lumiueuse
+tumbe au·dessous d’une certaine valent, on trouverait al’aidc d'un
+raisonn'ement simple que le deplaoement du centro apparent d'une
+bande est approximativement de
+
+aa
+
+l¹—lo= {so vers ls rouge3
+
+c'est nne consequence immediate de la forme de la fonction sing}
+qui exprime l’affaiblissemcnt. Ici λ’ signilie la longueur d’onde cor-
+respondente au contre observo, λο celle du minimum theorique,
+a l’ctendue observes de la partie parfaitement noire de la bande.
+Ainsi‚ par exemplo, le deplacem'ent correspondent a une largeur
+a=30 μμ (l0=500) ne seraque de 0‚9 pp,
+
+Pour le spectre prismatiquc, on obtient (par vois de con-
+struction graphique) un resultat tout a fait different: pour la meme
+largeur apparente a=30 μμ, on trouve un deplacement de 3μμ
+dans le sens contraire, cest-adire vers lc violet. Oependant on
+
+ne doit pas attacher trop d'importunce a ces nombres a cause de
+
+, l'inexactitude de l'hypothese physiologique faite cidessus. Il ne sc-
+
+rait dono pas impossible que lc deplaoement dans le spectro pris-
+matique fut beaucoup plus grand que dans le spectro normal. Pour
+cette raison et quelques autres, je me suis decide a employer‚ au
+lieu du prisma un reseau de diffraction.
+
+4. L'appareil spectral consistaiten un reseau de Rou-
+land monte de la muniere bien connue indiquee par son auteur.
+La pisce po'rtanl l’oculai're erait pourvuc d'un vernicr glissant le
+
+ 
+

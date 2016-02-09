@@ -1,0 +1,48 @@
+474
+
+soit different de aero. (1616 pose, remplapons successivement 16 fonc-
+tion p par les fonctions F„F„,...e¹„ et oelculons chaque fois les
+expressions correspondentes des fonctions Ul et U„ Permi les n
+expressions ainsi obtendes pour U„ il y en aura p qui serent li-
+neairement independentes et d'une sapon analogiis, on trouver-o
+
+parmi les n expressions obtensos pour U„ q expressions lineaire- .
+
+ment independentes. Si cette assertion est exacte, les p 1- q fonc-
+tions precedentes pourront etre regsrdees comme formant le systeme
+(40) et, par le 661661 (16 666 fonctions, le problemc serait resoln.
+essemus-nous dono qu'il en est bien 61661. A cet effet posons:
+
+{ir
+
+oir lesn representent des indet erminees et for-mons pour cette va-
+1666 (16 p 166 equations (36). 6116666666(166666666666666661166
+aisement que, si 16 proposition que nous voulons etablir n’etsit pas
+exacte, les integrales (39) verifiersient une relation lineaire et ho-
+mogene ecoefficients independents des indeterminees η. Or 6 oense
+(16 666 evanouissement du determinant (471, 6616 est manifestement
+impossible. Donc 16 proposition dont l'exactitude etait mise en
+quest ion est tdemontree et, par consequent7 16 methode exposeeplus
+haut permet tra tbien de celouler un systeme de fonctions tel qne
+le syst eme (40).
+
+La methode precedente n'est autre chose que l’extension de
+16 celebre methodo de Robin 66 666 (1·’666 surface qui 66 corn-
+pose d'un nombre queleonque (16 nappes.
+
+Nous indiquons dans les numeros suivants 166 applicatione
+principales des fonctions (40).
+
+Nr. 8. Proposons- nous de calculer une fonction Φ veriliant
+l’equstion de Lsplece en chaque point non sitne 661· 16 6661666 (S),
+continue meme 6 16 traversee de cette auriane, prenant 16 661666
+zero 6 l’inlim', 66 reduisent edes constantes sur les diverses nappes
+(1616 6661666181, telleque les derivees
+
+(1111θ
+
+soient des fonctions continues de 16 position du 'pied de 16 normale
+6 laquelle elles se repportent et telle enfin que les 6 integrales
+
+ 
+

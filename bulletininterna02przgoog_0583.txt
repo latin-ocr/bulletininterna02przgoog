@@ -1,0 +1,44 @@
+462
+
+On auro
+(9) t÷t=n
+
+en designant por n, eomme plus haut, le nombre de nsppes de la
+surfaee (8).
+
+D'apros 16 theoreme fondamentol reppele au numero precedent
+16 fonction u du perometre t ne peut possedeo, sn dehors des poles
+simplos -1 et -1-1, que dos points singuliors situes dans 16 plen
+de le varioble complexe λ, e l'oxterieur du oerole de rsyon 1 ayant
+l'origine des ooordonnees pour contre. Soit U1 le residu relatis ou
+pole -1 et U, 16 residu relatis au pole -}-1. Nous aurens:
+
+eura un rayon de eonvergenoe superieur t l'unite.
+Nous avons, en vertu du theoreme fondamental du numero
+precedent:
+
+(tofo)
+
+(12)
+
+o
+(13) (ffffl.
+
+L’equotion (12) nous apprend que, dans oheenne des p-{-1
+regions dont se oompose le domnine exterieur (D'), 16 fonction ΠΙ
+conserve une valeur constante. Dans le region infinie (60116 fone-
+tion Ul est neeessairement nulle puisqu'elle est nulle t l’infmi.
+soient
+
+(¹4) ⁶17 ⁶27 · ·· ⁶12
+
+166 valeurs constantes de lo fonotion U1 dans les regions (31),
+R .
+
+( 1), 06111161666 meintenant le fonction U2. 11 resulto (1616666-
+tion (13) qu'elle se reduit 1 une constante ὲ l’interieur de ohaoune
+des q regions (R,⁴ 1), (11Μ ‚)‚ . . . (Bm) dont se oompose 16 domnine
+interiour (D). Designons par
+
+ 
+
