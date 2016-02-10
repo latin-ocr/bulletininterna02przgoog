@@ -1,0 +1,48 @@
+111ὲο (1εο,1,0,3,...)
+oomme il e’agieeeit de le demontrer.
+
+Pour aller plue loin, il 001 0000000110 d’effeotuer un eertain
+olaeaement des neppee eompoeant la aurfaoe (Β) 0000111010ηο 11110
+nappe queloonque (8γ) 110 00110 0111100ος 0110 pourra oontenir 110011
+interieur une 011 plusieurs autres neppee de notre eurfaoe. Soit (Sp)
+une 1100 nappee de le surfaoe (S) 0111100 a l'interieur de la nappe
+(ΒΥ), mais 11011 enveloppee elle-meme per 11110 autre nappe 0111100
+00001 a l'interieur de la nappe (ΒΥ). Il pourra y avoir el'interieur
+de (Sp) une nouvelle nappe (Sp) de 10 01111000 (Β) 0110000011ορ-
+port a (Sp) 00111100 (ΒΥ) 001 0111100 par rapport 11(8γ). Soit 011 ge
+110101(19γ,) une nappe de 10 01111000 (S) eituee par rapport 0 10
+nappe (ΒΪΗ) 00111110 (Sp) 001 0111160 par rapport 0 (Sp). Cela pose,
+011 pourre former aveo 1100 nappes de la 0011000(8) la suite que
+vomi:
+
+(St), (Sp), (Sp), · uiso), (33)
+
+laquelle, paroourue de gauohe 11 droito, jouira dea proprietas 0111- ’
+vantea: le dernier terme (Sp) n’enveloppera aueune nappe do la
+aurfaee (8) 01 ohaque autre terme enveloppera le terme suivant
+00110 etro separe de lui par quelque nappe de la 0011000 (S). Il peut
+arriver, oela 001 01111001, qu'en partent d'une nappe donnee (Sp) l’on
+puisse former plusieurs 0111100 101100 que la 011110(33). Suppoaons
+que parmi 000 suites, 011 y en a plna d'une‚ 10 011110(33)001100110
+qui oontient le plus 1101011000. Le nombre de 000 10111100 etant l -(- 1,
+noue 11110110 que 10 nappe (Sp) 001 110 la 0010101101-(1. Si la nappe
+(8γ)110 0011110111 auoune autre nappe de la surfaoe (S) 1 0011111111-
+rieur, elle aera dite de premiere categorie.
+
+Gela pose, le lemme III peut etre 61101100 ainai: Loreque 10
+nappe (Sp) 001 de premiere categorie et lorsque le rayon de 0011-
+vergente delusorie (22) 001 0000110011111111111, on a:
+
+((1
+
+11)--0 tk=0,1,2,3‚...)
+
+D’autre part, 011 raieonnant oomme nous l’evona fait pour de-
+duire du Lemme Ι, 10 Lemme ΙΙΙ, 00 0111111110, au moyen du Lemme
+H, la proposition suivante: Loraque le rayon de eonvergenoe 110 la
+00110 (22) 001 superieur 1 l’unite et lorsque lea egalitea
+
+1418)-τῦ (lt=0,1‚2,3,...)
+
+ 
+
